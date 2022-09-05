@@ -1,1 +1,25 @@
-# fact 6 = 6*5*4*3*2*1
+a=float(input('entre number:'))
+if 0<=a<10:
+    print('1 raghami')
+elif 10<=a<100:
+    print('2 raghami')
+elif 100<=a<1000:
+    print('3 raghami')
+elif 1000<=a<10000:
+    print('4 raghami')
+elif 10000<=a<100000:
+    print('5 raghami')
+elif 100000<=a<1000000:
+    print('6 raghami')
+elif 1000000<=a<10000000:
+    print('7 raghami')
+elif 10000000<=a<100000000:
+    print('8 raghami')
+elif 100000000<=a<1000000000:
+    print('9 raghami')
+elif 1000000000<=a<10000000000:
+    print('10 raghami')
+elif 10000000000<=a<100000000000:
+    print('11 raghami')
+elif 100000000000<=a<1000000000000:
+    print('12 raghami')
